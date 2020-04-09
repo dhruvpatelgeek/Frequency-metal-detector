@@ -1,5 +1,5 @@
 
-#Frequency metal detector with discrimination
+Frequency metal detector with discrimination
 -------------------------------------------------
 ![alt text](https://github.com/dhruvpatelgeek/Frequency_metal_detector/blob/master/photos/coil.jpg)
 
