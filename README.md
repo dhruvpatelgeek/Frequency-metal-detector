@@ -1,11 +1,10 @@
 
 #Frequency metal detector with discrimination
 -------------------------------------------------
-
+![alt text](https://github.com/dhruvpatelgeek/Frequency_metal_detector/blob/master/photos/coil.jpg)
 
 VIDEO LINK
 https://vimeo.com/405417001
-
 
 
 1> Microcontroller  System: pic32 
