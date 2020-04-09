@@ -1,31 +1,20 @@
-# Frequency_metal_detector
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
-Frequency metal detector with discrimination
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
+
+#Frequency metal detector with discrimination
 
 
--------------------------------------------------
+
 VIDEO LINK
 https://vimeo.com/405417001
--------------------------------------------------
 
---------------------------------------------------------------------------------------------------
+
+--------------------------------------------------
 1> Microcontroller  System: pic32 
 2> Sensor Coil: built my own inductor which runs at 45Khz 
 3> Colpitts  Oscillator: the system has a Colpitts  Oscillator 
 4> C  programming: the system is programmed in C 
 5> Speaker: the system does have a speaker 
 6> Detection: can detect all Canadian coins 
--------------------------------------------------
 
-
--------------------------------------------------
-Extra Features
--------------------------------------------------
 1> up to 10 cm detection mode with discrimination (Fe, Al, Cu, Ni)
 2> precision detection mode for small objects (coins, ball bearings)
 3> sound based discrimination mode (beep if the type of metal is correct)
@@ -35,7 +24,7 @@ Extra Features
 -------------------------------------------------
 
 
-----------------------------------------------------------------------
+-------------------------------------------------
 INDEX
 -------------------------------------------------
 
@@ -66,8 +55,8 @@ INDEX
  ------------------------------------------------- ------------------------------------------------- 
 
 0> Parts list
-    -------------------------------------------------
-    0.1>list of all the components you need to get started
+   
+        0.1>list of all the components you need to get started
 
         0.1.1> MCU circuit 
         2x red LED
@@ -106,7 +95,7 @@ INDEX
         1x LMC7660
 
 1> Hardware
-    -------------------------------------------------
+   
     1.1> Working + construction of the Colpitts  Oscillator
 
         1.1.1> The coil
@@ -218,7 +207,7 @@ INDEX
                      
 
 2> Software
-    -------------------------------------------------
+    
     2.1> compilation/building of software
         2.1.1>period detection
             A simple implementation set RB5 as digital I/O pin
@@ -281,7 +270,7 @@ INDEX
 
 
 3> References
-    -------------------------------------------------
+    
     concepts from>>
     Purcell electricity and magnetism
     H.C verma part 2
