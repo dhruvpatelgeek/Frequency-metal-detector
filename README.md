@@ -93,7 +93,8 @@ INDEX
         1x LMC7660
 
 1> Hardware
-   
+![alt text](https://github.com/dhruvpatelgeek/Frequency_metal_detector/blob/master/photos/DSC00034.JPG)
+
     1.1> Working + construction of the Colpitts  Oscillator
 
         1.1.1> The coil
