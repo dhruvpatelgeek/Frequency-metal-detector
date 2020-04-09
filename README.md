@@ -1,71 +1,60 @@
-# Frequency_metal_detector
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
+
 Frequency metal detector with discrimination
 -------------------------------------------------
--------------------------------------------------
--------------------------------------------------
+![alt text](https://github.com/dhruvpatelgeek/Frequency_metal_detector/blob/master/photos/coil.jpg)
 
-
--------------------------------------------------
 VIDEO LINK
 https://vimeo.com/405417001
--------------------------------------------------
-
---------------------------------------------------------------------------------------------------
-1> Microcontroller  System: pic32 
-2> Sensor Coil: built my own inductor which runs at 45Khz 
-3> Colpitts  Oscillator: the system has a Colpitts  Oscillator 
-4> C  programming: the system is programmed in C 
-5> Speaker: the system does have a speaker 
-6> Detection: can detect all Canadian coins 
--------------------------------------------------
 
 
--------------------------------------------------
-Extra Features
--------------------------------------------------
-1> up to 10 cm detection mode with discrimination (Fe, Al, Cu, Ni)
-2> precision detection mode for small objects (coins, ball bearings)
-3> sound based discrimination mode (beep if the type of metal is correct)
-4> LEDs (RRYYB) to tell proximity (red = far.... blue = close)
-5> speaker changes pitch with distance
-6> automatic calibration for different environments
--------------------------------------------------
+    1> Microcontroller  System: pic32 
+    2> Sensor Coil: built my own inductor which runs at 45Khz 
+    3> Colpitts  Oscillator: the system has a Colpitts  Oscillator 
+    4> C  programming: the system is programmed in C 
+    5> Speaker: the system does have a speaker 
+    6> Detection: can detect all Canadian coins 
+    7> up to 10 cm detection mode with discrimination (Fe, Al, Cu, Ni)
+    8> precision detection mode for small objects (coins, ball bearings)
+    9> sound based discrimination mode (beep if the type of metal is correct)
+    10> LEDs (RRYYB) to tell proximity (red = far.... blue = close)
+    11> speaker changes pitch with distance
+    12> automatic calibration for different environments
 
 
-----------------------------------------------------------------------
+
+
 INDEX
 -------------------------------------------------
 
 0> Parts list
-    -------------------------------------------------
-    0.1>list of all the components you need to get started
+    
+        0.1>list of all the components you need to get started
 
 1> Hardware
-    -------------------------------------------------
-    1.1> Working + construction of the Colpitts  Oscillator
-    1.2> Working + construction of the Metal discrimination circuit 
-    1.3> how to assemble the circuit
+   
+    
+        1.1> Working + construction of the Colpitts  Oscillator
+        1.2> Working + construction of the Metal discrimination circuit 
+        1.3> how to assemble the circuit
 
 2> Software
-    -------------------------------------------------
-    2.1> compilation/building of software
-    2.2> how to flash it on the board
+   
+    
+         2.1> compilation/building of software
+         2.2> how to flash it on the board
 
 
 3> References
-    -------------------------------------------------
-    3.1> online links+textbook References
+   
+         3.1> online links+textbook References
 
- ------------------------------------------------- ------------------------------------------------- 
- -----------------------------------        MAIN DOCUMENT            ------------------------------- 
- ------------------------------------------------- ------------------------------------------------- 
+
+ MAIN DOCUMENT            
+ ------------------------------------------------- 
 
 0> Parts list
-    -------------------------------------------------
-    0.1>list of all the components you need to get started
+   
+        0.1>list of all the components you need to get started
 
         0.1.1> MCU circuit 
         2x red LED
@@ -104,7 +93,8 @@ INDEX
         1x LMC7660
 
 1> Hardware
-    -------------------------------------------------
+![alt text](https://github.com/dhruvpatelgeek/Frequency_metal_detector/blob/master/photos/DSC00034.JPG)
+
     1.1> Working + construction of the Colpitts  Oscillator
 
         1.1.1> The coil
@@ -216,7 +206,7 @@ INDEX
                      
 
 2> Software
-    -------------------------------------------------
+    
     2.1> compilation/building of software
         2.1.1>period detection
             A simple implementation set RB5 as digital I/O pin
@@ -279,7 +269,7 @@ INDEX
 
 
 3> References
-    -------------------------------------------------
+    
     concepts from>>
     Purcell electricity and magnetism
     H.C verma part 2
