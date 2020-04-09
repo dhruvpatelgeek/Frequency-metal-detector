@@ -7,18 +7,18 @@ VIDEO LINK
 https://vimeo.com/405417001
 
 
-1> Microcontroller  System: pic32 
-2> Sensor Coil: built my own inductor which runs at 45Khz 
-3> Colpitts  Oscillator: the system has a Colpitts  Oscillator 
-4> C  programming: the system is programmed in C 
-5> Speaker: the system does have a speaker 
-6> Detection: can detect all Canadian coins 
-7> up to 10 cm detection mode with discrimination (Fe, Al, Cu, Ni)
-8> precision detection mode for small objects (coins, ball bearings)
-9> sound based discrimination mode (beep if the type of metal is correct)
-10> LEDs (RRYYB) to tell proximity (red = far.... blue = close)
-11> speaker changes pitch with distance
-12> automatic calibration for different environments
+    1> Microcontroller  System: pic32 
+    2> Sensor Coil: built my own inductor which runs at 45Khz 
+    3> Colpitts  Oscillator: the system has a Colpitts  Oscillator 
+    4> C  programming: the system is programmed in C 
+    5> Speaker: the system does have a speaker 
+    6> Detection: can detect all Canadian coins 
+    7> up to 10 cm detection mode with discrimination (Fe, Al, Cu, Ni)
+    8> precision detection mode for small objects (coins, ball bearings)
+    9> sound based discrimination mode (beep if the type of metal is correct)
+    10> LEDs (RRYYB) to tell proximity (red = far.... blue = close)
+    11> speaker changes pitch with distance
+    12> automatic calibration for different environments
 
 
 
