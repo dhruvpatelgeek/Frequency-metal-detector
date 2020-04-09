@@ -40,24 +40,26 @@ INDEX
 -------------------------------------------------
 
 0> Parts list
-    -------------------------------------------------
-    0.1>list of all the components you need to get started
+    
+        0.1>list of all the components you need to get started
 
 1> Hardware
-    -------------------------------------------------
-    1.1> Working + construction of the Colpitts  Oscillator
-    1.2> Working + construction of the Metal discrimination circuit 
-    1.3> how to assemble the circuit
+   
+    
+        1.1> Working + construction of the Colpitts  Oscillator
+        1.2> Working + construction of the Metal discrimination circuit 
+        1.3> how to assemble the circuit
 
 2> Software
-    -------------------------------------------------
-    2.1> compilation/building of software
-    2.2> how to flash it on the board
+   
+    
+         2.1> compilation/building of software
+         2.2> how to flash it on the board
 
 
 3> References
-    -------------------------------------------------
-    3.1> online links+textbook References
+   
+         3.1> online links+textbook References
 
  ------------------------------------------------- ------------------------------------------------- 
  -----------------------------------        MAIN DOCUMENT            ------------------------------- 
