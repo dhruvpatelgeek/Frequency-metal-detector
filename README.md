@@ -49,10 +49,11 @@ INDEX
          3.1> online links+textbook References
 
 
- MAIN DOCUMENT            
- ------------------------------------------------- 
+#MAIN DOCUMENT            
 
-0> Parts list
+
+Parts list
+-------------------------------------------------
    
         0.1>list of all the components you need to get started
 
@@ -92,7 +93,8 @@ INDEX
         1x Op07cp – op amp
         1x LMC7660
 
-1> Hardware
+Hardware
+-------------------------------------------------
 ![alt text](https://github.com/dhruvpatelgeek/Frequency_metal_detector/blob/master/photos/DSC00034.JPG)
 
     1.1> Working + construction of the Colpitts  Oscillator
@@ -204,8 +206,8 @@ INDEX
             make sure resistor values are correct so that LEDs glow equally bright.
             (normally red would be very bright and blue would be super dim).
                      
-
-2> Software
+Software
+-------------------------------------------------
     
     2.1> compilation/building of software
         2.1.1>period detection
@@ -268,7 +270,8 @@ INDEX
             >>>>>>all LEDs would light up indicating a successful flash 
 
 
-3> References
+References
+-------------------------------------------------
     
     concepts from>>
     Purcell electricity and magnetism
