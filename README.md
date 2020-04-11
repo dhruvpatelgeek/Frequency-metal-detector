@@ -49,9 +49,6 @@ INDEX
          3.1> online links+textbook References
 
 
-#MAIN DOCUMENT            
-
-
 Parts list
 -------------------------------------------------
    
